@@ -11,6 +11,7 @@ animal = 'cat';
   // P.S.: You can't just hard-code 'cat' below
 return animal;
 }
+
 const two = 2;
 
 function add2(n) {
